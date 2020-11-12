@@ -1,0 +1,2 @@
+# gudang.BT
+untuk pembukuan
